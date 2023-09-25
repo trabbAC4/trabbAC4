@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif)
 <h1 align="center">Hi 👋, I'm Tahmidur Rabb</h1>
 <h3 align="center">Aspiring Software Engineer from New York. I love to create integral technology that has a worldwide impact as well as partner up with bright minded people to derive cause-driven solutions</h3>
 
