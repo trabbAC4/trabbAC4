@@ -7,5 +7,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trabbac4&show_icons=true&locale=en&layout=compact" alt="trabbAC4" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trabbac4&" alt="trabbac4" /></p>
